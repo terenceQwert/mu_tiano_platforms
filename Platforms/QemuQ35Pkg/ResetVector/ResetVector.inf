@@ -10,7 +10,7 @@
 [Defines]
   INF_VERSION                    = 0x00010005
   BASE_NAME                      = ResetVector
-  FILE_GUID                      = 1BA0062E-C779-4582-8566-336AE8F78F09
+  FILE_GUID                      = F6FD367B-753E-4226-8DBD-381FE487E08A
   MODULE_TYPE                    = SEC
   VERSION_STRING                 = 1.1
 
